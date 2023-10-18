@@ -1,0 +1,1 @@
+Ahora debes crear un archivo llamado "primerArchivo.txt". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
