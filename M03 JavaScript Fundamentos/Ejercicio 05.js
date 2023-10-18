@@ -70,9 +70,6 @@ function esVocal(letra) {
       return 'Es vocal';
    } else {
       return 'Dato incorrecto';
-   {
-   
-   }
    }
 }
 
